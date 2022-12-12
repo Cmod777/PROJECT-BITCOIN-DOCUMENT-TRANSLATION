@@ -4,7 +4,12 @@ traduzioni progetti bitcoin in italiano
 
 > [TWITTER] Puoi seguirmi su twitter [QUI](twitter.com/AnonSatoshy) 
 
-# CYPHERPUNKS WRITE CODE
+
+## INDICE
+* [CYPHERPUNKS WRITE CODE](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION#cypherpunks-write-code)
+* [THE TIMECHAIN CODEX](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION#the-timechain-codex)
+
+### CYPHERPUNKS WRITE CODE
 > [NOTE] Il file è suddiviso in 4 parti, come il documentario originale. Ogni parte è suddivisa in sezioni di circa un minuto di parlato. Si prega di rispettare questa formattazione per qualsiasi tipo di collaborazione o richiesta di correzioni. Ogni domanda dovrà pervenire con il riferimento specifico della parte e del minuto (es: A4 > indica che la correzione fa riferimento alla sezione A e al minuto 4)
 
 
@@ -23,7 +28,7 @@ CYPHERPUNKS WRITE CODE|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main
 
 
 
-# THE TIMECHAIN CODEX
+### THE TIMECHAIN CODEX
 > [NOTE] Il file è suddiviso in 9 capitoli. Questa è la prima traduzione in italiano dell'opera di Fractal Encrypt
 > (sto lavorando a correzioni per la versione 2) Al momento il link porta al file pdf caricato sul cloud proton
 
