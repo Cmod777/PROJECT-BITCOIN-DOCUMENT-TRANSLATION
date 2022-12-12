@@ -1,0 +1,385 @@
+____________________________________________
+------------------PART D------------------
+_____________________________________________
+
+30.
+Abbiamo il potere di far ripartire il
+mondo da capo proprio adesso e CONDURLO
+sul percorso ottimale per raggiungere questo obiettivo.
+Si può fare del male con questa tecnologia? Sì. E allora? E allora?
+Allora affrontatelo.
+
+Ecco l'ultima puntata di una serie di quattro parti sulle origini del movimento cypherpunk
+e su come ha contribuito a plasmare il nostro mondo moderno.
+Vediamo un mondo libero che ha raggiunto un
+livello di prosperità senza precedenti nella storia dell'umanità.
+
+Signor Gorbaciov, abbatta questo muro.
+Se gli aveste chiesto dieci anni fa: 
+È possibile che il comunismo possa
+crollare come abbiamo detto, assolutamente ridicolo.
+
+_____________________________________________
+
+31.
+La caduta del muro di Berlino è stata importante per me perché
+pensavo che fosse la fine della storia e che i
+confini nazionali avrebbero smesso di essere come i muri delle prigioni.
+E così, un paio d'anni dopo, quando ho scoperto Internet, ho pensato: 
+"Oh, questo fa parte di un modello
+in cui i confini e i sospetti smettono di essere barriere per le persone."
+Poi ho scoperto un intero gruppo di persone
+che si auto-identificavano come "persone che lavorano al computer".
+E in questo gruppo c'era la mailing list dei Cypherpunks.
+Se volete iscrivervi alla nostra mailing list, mandate
+un messaggio di posta elettronica vuoto e dite semplicemente "subscribe cypherpunks".
+E cos'è un cypherpunk? Cosa ne pensate?
+I cypherpunk sono attivisti della crittografia.
+La lista di posta elettronica cypherpunk, nata nell'autunno del 1992, un anno dopo il lancio
+del World Wide Web, è diventata un luogo di incontro per una comunità globale
+interessata all'uso della crittografia per permettere agli individui di
+di comunicare e di effettuare transazioni su Internet in modo privato e
+senza interferenze da parte di un'autorità centrale.
+
+_____________________________________________
+
+32.
+Negli ultimi 20 anni, le tecniche di base
+per fare ogni sorta di cose apparentemente impossibili
+sono emerse all'improvviso, mettendole in pratica.
+Molti crittografi sono stati ispirati dal lavoro dell'informatico David Chaum, 
+il quale aveva dimostrato che era possibile usare la crittografia 
+per costruire una rete di pagamento anonimo che funzionava su Internet.
+Grazie ai cypherpunk e ai documenti scientifici di David Chaum,
+ho pensato che la terza cosa che accadrà è la libertà economica,
+il fatto che le persone non saranno più costrette dai confini nazionali 
+e dalla distanza dal cooperare, condividere le risorse e aiutarsi a vicenda.
+Ma in questo momento spartiacque di crollo dei confini,
+c'è stata una divisione all'interno della comunità cypherpunk
+se questi strumenti crittografici avrebbero portato a una maggiore libertà individuale,
+al libero commercio e alla diffusione della democrazia o alla fine del governo.
+La figura più influente del movimento cypherpunk è stata
+il fisico e provocatore intellettuale Tim May,
+che ha coniato l'espressione "anarchia crittografica".
+
+_____________________________________________
+
+33.
+La caduta del Muro di Berlino è stata per lui una prova del fatto che
+istituzioni sociali che diamo per scontate potrebbero crollare in breve tempo,
+proprio come era successo nel Medioevo.
+Abbiamo visto i piccoli principati, le
+monarchie, i religiosi, lo Stato Pontificio.
+Li abbiamo visti crollare probabilmente come risultato
+dell'editoria, della stampa, della carta geografica e di un riassunto di una pagina
+di come la crittografia avrebbe sconvolto la società.
+Così mi sono seduto al mio piccolo
+Machintosh e l'ho liberamente ispirato al Manifesto Comunista.
+Lo spettro che perseguita il mondo moderno,
+lo spettro dell'anarchia crittografica.
+La crittografia è davvero, davvero forte.
+Possiamo essere protetti da qualsiasi cosa all'esterno, dagli
+osservatori, da chi ci guarda, da chi impone il passato al futuro 
+che stiamo cercando di creare.
+May era scettico sull'idea che l'umanità
+fosse testimone di una vittoria senza
+liberismo economico e politico o che fosse possibile
+superare la tirannia attraverso l'azione collettiva.
+
+_____________________________________________
+
+34.
+Lo scienziato politico Francis Fukuyama ha sostenuto che,
+come esseri umani vogliamo essere riconosciuti di una certa dignità.
+Questa è la forza motrice essenziale delle rivoluzioni democratiche, 
+sia che avvengano nell'Europa dell'Est, in Asia o in America Latina, 
+possono abbracciare una teoria del cambiamento storico basata sulla tecnologia,
+riassunto dallo slogan del movimento, coniato dal matematico Eric Hug.
+I cypherpunk scrivono codice.
+Quello che Eric intendeva dire con "cypherpunks write code" è: 
+non essere uno di quei ragazzi che vanno al 
+Partito Libertario e si siedono per far eleggere qualcuno
+al consiglio comunale di Los Gato.
+Da quella parte c'è la follia.
+Mentre le cose interessanti che erano stati i cambiamenti tecnologici, 
+il telefono, le fotocopiatrici, il videoregistratore.
+La filosofia che mi interessava davvero
+è che non basta chiedere all'ente regolatore: "Oh, abbiamo bisogno di più privacy online".
+Si può risolvere il problema.
+Le discussioni e le lamentele, le lobby e la politica hanno
+effetto nominale su ciò che cambia il mondo.
+L'adozione della tecnologia e la
+società si muovono, spostando i punti di velocità.
+
+_____________________________________________ 
+
+35.
+Per i cripto-anarchici come me, scrivere codice
+significava costruire sistemi per transazioni anonime su
+Internet che rendevano irrilevanti 
+le divisioni arbitrarie del mondo politico.
+I confini nazionali sono solo dossi
+sulla superstrada dell'informazione.
+Le reti crittografiche online sarebbero state strutturate come una cupola geodetica,
+una forma acclamata dai tecnologi della controcultura degli anni 
+Settanta per la sua armonia con la natura e la sua resistenza agli attacchi esterni.
+Senza proprietari, con molti nodi interconnessi
+che sarebbero sostanzialmente inarrestabili.
+L'economia di mercato non sarà più l'ancella della
+politica, ha osservato lo scrittore cypherpunk Robert Hettinga,
+e gli Stati nazionali finiranno per diventare un
+cerimoniale come i moderni monarchi costituzionali.
+L'idea di una connessione tra molti e molti
+molti a molti era chiaramente destinata a realizzarsi.
+Ma era molto più facile costruire una rete funzionale
+per la cooperazione e il commercio quando si può contare
+su un'autorità centrale per far rispettare le regole.
+Come possiamo usare questa strana tecnica di crittografia
+per risolvere questo strano, esoterico problemino che
+nel mondo reale, si risolve semplicemente?
+Perché so qual è il vostro numero di previdenza sociale, oppure
+devi avere un documento d'identità rilasciato dal governo da portare
+in banca per poter aprire un conto corrente
+e loro possono collegare le due cose e dire:
+"Ok, se Jim McCoy se ne va con questi
+100.000 dollari, sappiamo dove trovarlo.
+
+_____________________________________________
+
+36.
+Stavo cercando di affrontare questi problemi.
+È possibile acquistare e vendere proprietà nel cyberspazio
+utilizzando protocolli crittografici, l'idea di modi in
+in cui le persone potrebbero fornire l'equivalente di ciò che fa il
+governo in modo decentralizzato.
+Tim ha rubato alcune idee dalla mia "macchina della
+libertà", e le ha rielaborate con tutta questa
+tecnologia, e poi le ho rubate di nuovo.
+Una funzione del governo che è stata particolarmente difficile da
+replicare con la crittografia era l'emissione di denaro.
+I cypherpunk hanno tentato di costruire un sistema di valuta Internet senza confini
+e anonimo come il denaro contante,
+e che "l'oro leggero" mantenesse il suo valore
+senza l'appoggio di una banca centrale.
+L'oro è un'ottima moneta perché nessuno
+può produrne di più facilmente.
+È vero, mentre i bit sono perfettamente riproducibili, quindi
+trasformare i bit in denaro buono è piuttosto difficile.
+Tim May e molti altri consideravano il denaro elettronico
+il Santo Graal perché completava il quadro.
+
+_____________________________________________
+
+37.
+Un sistema monetario privato e decentralizzato, sosteneva May, 
+era una componente fondamentale per costruire
+un nuovo mondo senza confini in cui le attività
+e i beni degli individui sarebbero stati resistenti
+al controllo e alla confisca da parte del governo.
+Non si incontra fisicamente la persona
+se non si sa nemmeno su quali contenuti sta lavorando.
+Non puoi costringerla.
+C'era un'altra fazione all'interno del
+movimento che rifiutava la visione di Tim May.
+Secondo un nuovo mondo nel cyberspazio,
+gli hayekiani high-tech erano persone come Eric
+Drexler, Mark Miller, Bill Salem.
+Erano concentrati sulla progettazione di sistemi informatici sicuri
+basati su intuizioni economiche, in particolare su quelle del
+Premio Nobel austriaco Friedrich Hayek.
+Invece di costruire un nuovo mondo virtuale
+al riparo dall'interfaccia del governo, gli hayekiani hi-tech
+hanno cercato di usare la tecnologia per demolire i muri e le
+e divisioni all'interno del mondo esistente.
+Immaginavano che l'introduzione di nuovi strumenti di
+coordinamento umano avrebbe gradualmente eroso la capacità 
+del governo di imporre le proprie libertà.
+
+_____________________________________________
+
+38.
+Abbiamo fantasticato molto su come il mondo potesse essere diverso, 
+ma vedevamo questo come emergente dall'interno del mondo.
+La crittografia era uno strumento per trasportare
+concetti economici e strutture legali su Internet,
+ma l'obiettivo era quello di promuovere nuove
+forme di commercio P2P e di condivisione della conoscenza.
+E gli Hayekiani hi-tech credevano che anche i sistemi imperfetti
+possono trasformare gradualmente la società dall'interno.
+L'arco generale della storia mondiale va verso
+lo stato di diritto, verso sistemi meno corruttibili.
+Se l'emergere del mondo del commercio crittografico
+crea sistemi molto meno corruttibili,
+ma sotto un insieme di meccanismi e regimi di governance
+tali da non essere sempre e ovunque
+incorruttibili, penso che vada bene così.
+
+_____________________________________________
+
+39.
+È molto potente fornire alle persone strumenti tali da
+poter iniziare a comportarsi come voi vorreste che facessero,
+invece di dover venire qui dove è
+davvero criptato e funziona esattamente come vogliamo noi.
+No, no, aumentiamo i livelli delle persone in maniera incrementale
+e questo è un miglioramento del mondo.
+Per molti cypherpunk, il lato più oscuro
+dell'anarchia crittografica è stato incarnato dagli scritti di un
+chimico e ingegnere elettrotecnico, Jim Bell, un partecipante
+di una lista di e-mail che, a metà degli anni
+anni '90, paragonava l'aggressione da parte dello Stato a quella di 
+scippatori, stupratori, rapinatori e assassini e
+e ipotizzava un mercato protetto da crittografia nel quale
+individui anonimi potevano, di fatto, pagare per avere
+dipendenti statali con l'obiettivo di distruggere lo Stato.
+Nel 1997, Bell è stato arrestato ed è finito in
+in prigione per aver lanciato, tra le altre cose, una
+una bomba puzzolente su un edificio governativo.
+Tim May ha preso le distanze dagli scritti e dalle attività di Bell, 
+pur sostenendo che i mercati di assassini 
+come quelli descritti da Bell
+potrebbero essere inevitabili e auspicabili.
+
+_____________________________________________
+
+40.
+Si può fare del male con questa tecnologia?
+Non solo Internet, ma soprattutto
+la parte crittografica? Sì. E allora?
+E allora?
+Allora affrontatelo.
+Zimmerman una volta mi ha detto che a volte rimpiangeva di aver introdotto il
+PGP al mondo perché avrebbe potuto essere usato da
+Al Qaeda o dai Talebani o altro.
+Io dico: e allora?
+Non sono moralmente responsabile del fatto che sarebbe successo se noi fossimo esistiti o meno,
+perché la tecnologia ha una sua logica e
+la gente vuole fare quello che vuole.
+Voglio dire, vogliono la libertà di fare le cose.
+Anche se dicono che questo dovrebbe essere regolamentato,
+spesso prendono la decisione consapevole di copiare
+musica, copiare videocassette che vogliono vedere in nero.
+La rete è una conseguenza negativa.
+
+_____________________________________________
+
+41.
+Non sono interessato a crearlo.
+Quando si costruisce una tecnologia per risolvere dei problemi, si creano poi delle
+conseguenze che cerchiamo di anticipare e di
+e di capire come affrontare e superare i lati negativi di ciò che costruiamo.
+Questo è uno sviluppo responsabile e
+e noi ci siamo certamente impegnati in questo senso.
+E parlando con Tim May e mettendo in atto quella cosa di
+essere un black-hat è stato sicuramente un
+utile spunto per elaborare questo tipo di idee,
+ma non è assolutamente quello che erano i chyperpunk.
+Il progresso della diffusione della democrazia, se
+si ha una visione sufficientemente a lungo termine
+è stato davvero notevole.
+
+_____________________________________________
+
+42.
+Il nostro sogno era quello di rendere possibile il futuro della libertà umana
+e avevamo questa bizzarra fiducia su come si sarebbe svolto il futuro
+e di usare la famosa frase di Alan Cave, di
+avere una grande mano nell'inventarlo.
+Ma la strada aveva molte più erbacce
+e deviazioni che non avremmo potuto prevedere.
+Quando abbiamo lanciato il progetto,
+speravamo in 400 500 persone.
+Ora siamo a 1.000 persone, quindi
+chissà dove andremo a finire.
+Si tratta della capacità di archiviazione in continua crescita dei 
+server di aziende come Google.
+È sul vostro server, sotto la vostra scrivania.
+Questo viene fatto al posto vostro.
+I dispositivi aggiuntivi tengono traccia di tutti i
+programmi, é una vita più semplice.
+Ho trovato questo modo di lavorare
+Raccogliete mezzo gigabyte
+di informazioni sui vostri clienti.
+Cosa ne fate?
+Vogliono sapere tutto di voi
+per potervi vendere qualcosa e il risultato è che
+che ognuno di voi si sottoponga a un esame proctologico digitale.
+Una NSA prende di mira in modo specifico
+le comunicazioni di tutti.
+
+_____________________________________________
+
+43.
+Nel corso del quarto di secolo successivo, Internet avrebbe reso possibile
+un'esplosione della libertà individuale e della condivisione delle informazioni,
+proprio come aveva previsto Phil Salin.
+Ma si sarebbe anche trasformato in un apparato di sorveglianza
+che ha confermato la visione distopica del giornalista David BurnHam nel suo libro del 1983
+"L'ascesa dello Stato informatico".
+Le grandi burocrazie, grazie al potere dato dai computer
+che diventano sempre più potenti e sfuggono
+ai controlli e agli equilibri della democrazia rappresentativa.
+Facebook raccoglie informazioni per le quali la
+Germania dell'Est avrebbero ucciso per averle.
+Credo che la maggior parte delle persone sia abbastanza felice
+di consegnare tutte le informazioni che le riguardano
+online in cambio di qualche foto
+degli amici del liceo, dei figli o altro.
+A metà degli anni 2000, sembrava che
+il movimento cypherpunk fosse in gran parte fallito.
+Poi è arrivata la crisi finanziaria globale, seguita
+da massicci salvataggi da parte delle banche centrali.
+
+_____________________________________________
+
+44.
+Il 31 ottobre 2008 un inventore pseudonimo
+di nome Satoshi Nakamoto ha condiviso un white paper
+che descriveva un nuovo sistema monetario P2P non governativo,
+concetti tecnici e filosofici sviluppati
+sulla lista dei cypherpunks.
+Nel giro di pochi anni, il movimento è rinato
+con una nuova generazione impegnata a migliorare la libertà personale 
+e la privacy con strumenti crittografici.
+È come scoprire un'oasi quando ci si perde nel deserto.
+Il bitcoin è l'unico responsabile dell'attuale ondata di attività cypherpunk.
+È sempre più complicato di quanto i visionari possano prevedere
+perché la realtà è più grande di quanto si potesse immaginare.
+Siamo ancora in viaggio nella ricerca di
+costruire architetture che amplificano le libertà umane e ci proteggono 
+dalle dinamiche che si verificano nell'altra direzione.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+ ê  ùT   
