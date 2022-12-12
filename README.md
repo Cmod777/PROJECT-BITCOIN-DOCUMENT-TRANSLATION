@@ -1,4 +1,4 @@
-# TRANSLATE_ita
+# PROJECT: BITCOIN DOCUMENTS TRANSLATION ITA
 traduzioni progetti bitcoin in italiano
 > [DONAZIONI] Puoi effettuare una donazione Lightning Network Bitcoin utilizzando ln address: guy@getalby.com
 
