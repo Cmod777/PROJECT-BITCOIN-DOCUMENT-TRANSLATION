@@ -2,7 +2,7 @@
 traduzioni progetti bitcoin in italiano
 > [DONAZIONI] Puoi effettuare una donazione Lightning Network Bitcoin utilizzando ln address: guy@getalby.com
 
-> [TWITTER] Puoi seguirmi su twitter [QUI](twitter.com/AnonSatoshy) 
+> [TWITTER] Puoi seguirmi su twitter [QUI](https://www.twitter.com/AnonSatoshy) 
 
 
 ## INDICE
