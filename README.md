@@ -25,8 +25,8 @@ CYPHERPUNKS WRITE CODE|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main
 
 # THE TIMECHAIN CODEX
 > [NOTE] Il file è suddiviso in 9 capitoli. Questa è la prima traduzione in italiano dell'opera di Fractal Encrypt
-> (sto lavorando a correzioni per la versione 2)
+> (sto lavorando a correzioni per la versione 2) Al momento il link porta al file pdf caricato sul cloud proton
 
 | PROGETTO | LINK| specifiche | 
 |:--------------:|:-------------:|:--------------:|
-THE TIMECHAIN CODEX|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/ENG_TEXT_V1.txt)|ITA v1 PDF|
+THE TIMECHAIN CODEX|[link](https://drive.proton.me/urls/FQFCM5ZXVC#wdKvJfrPLtiy)|ITA v1 PDF|
