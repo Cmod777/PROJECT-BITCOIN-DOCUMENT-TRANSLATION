@@ -20,3 +20,13 @@ CYPHERPUNKS WRITE CODE|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main
 -|[><](link)|PARTE C testo italiano v2|
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/Parte_D_Ita_v1.txt)|PARTE D testo italiano v1|
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/parte_D_ITA_v2.txt)|PARTE D testo italiano v2|
+
+
+
+# THE TIMECHAIN CODEX
+> [NOTE] Il file è suddiviso in 9 capitoli. Questa è la prima traduzione in italiano dell'opera di Fractal Encrypt
+> (sto lavorando a correzioni per la versione 2)
+
+| PROGETTO | LINK| specifiche | 
+|:--------------:|:-------------:|:--------------:|
+THE TIMECHAIN CODEX|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/ENG_TEXT_V1.txt)|ITA v1 PDF|
