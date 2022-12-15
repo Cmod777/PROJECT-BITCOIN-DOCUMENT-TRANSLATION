@@ -14,6 +14,8 @@ traduzioni progetti bitcoin in italiano
 
 **Abstract di riferimento originale > [CLICCA QUI](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION/blob/main/CYPHERPUNKS_WRITE_CODE.md)**
 
+[Credits traduzioni](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION/blob/main/CWC_credits.txt)
+
 
 | PROGETTO | LINK| specifiche | 
 |:--------------:|:-------------:|:--------------:|
