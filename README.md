@@ -24,7 +24,7 @@ CYPHERPUNKS WRITE CODE|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/Parte_B_ita_v1.txt)|PARTE B testo italiano v1|
 -|[-](link)|PARTE B testo italiano v2|
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/Parte_C_ITA_v1.txt)|PARTE C testo italiano v1|
--|[-](link)|PARTE C testo italiano v2|
+-|[link](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION/blob/main/Parte_C_ITA_v2.txt)|PARTE C testo italiano v2|
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/Parte_D_Ita_v1.txt)|PARTE D testo italiano v1|
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/parte_D_ITA_v2.txt)|PARTE D testo italiano v2|
 
