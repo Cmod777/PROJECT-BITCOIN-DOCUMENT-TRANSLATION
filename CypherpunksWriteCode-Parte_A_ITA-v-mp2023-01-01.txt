@@ -1,0 +1,318 @@
+PART A
+
+Il governo non è una cosa monolitica
+che è il vostro nemico.
+È una cosa molteplice che è il vostro nemico.
+Il nostro sogno era quello di rendere possibile il futuro della libertà umana.
+All'inizio degli anni '90, un gruppo di matematici, disadattati, 
+hacker e hobbisti si sono riuniti con la convinzione comune che Internet
+avrebbe demolito i muri artificiali
+o che avrebbe gettato le basi per uno Stato orwelliano.
+Possiamo impedire il Ministero della Verità.
+Hanno visto una branca della matematica chiamata
+crittografia come un'arma contro la pianificazione
+e la sorveglianza in questo nuovo mondo virtuale.
+E cos'è un cypherpunk?
+I cypherpunk sono attivisti della crittografia.
+Mi rendevo conto sempre più conto di come fosse 
+tecnologia davvero cruciale per la società.
+L'Agenzia per la sicurezza nazionale ha dichiarato che la discussione pubblica incontrollata sulla ricerca crittografica minacciava la nostra sicurezza nazionale.
+L'ho vista come il bivio critico nella strada verso un futuro della libertà umana.
+Di seguito, Reason presenta una serie di quattro parti
+su un movimento che ha previsto sia la
+promessa che il pericolo che si prospettava,
+_____________________________________________
+
+2.
+quando Internet ha sconvolto il mondo.
+È come trovarsi in cima a una montagna e vedere cosa c'è là fuori.
+Voi che siete qui potete dire: ok, che tipo di mondo vogliamo davvero costruire?
+E costruirlo.
+
+Parte 1. Gli hayekiani high-tech.
+Immaginate, se volete, seduti prendendo il
+caffè del mattino, accendendo il computer di casa
+per leggere il giornale del giorno.
+Beh, non è così inverosimile come può sembrare.
+I temi della libertà erano molto importanti per noi.
+Questo è un esempio di ciò che
+che si può ordinare attraverso il computer.
+Combina la potenza del computer con la comodità del telefono.
+Ci siamo resi conto che la tecnologia dell'informazione
+può creare una società tirannica di controllo dall'alto stile 1984
+o può svilupparsi in qualcosa che
+è un abilitatore decentralizzato della libertà umana.
+E già da allora il nostro sogno era
+di rendere possibile il futuro della libertà umana.
+_____________________________________________
+
+
+3.
+Alla fine degli anni '80, agli albori dell'era online,
+un gruppo di giovani informatici della Silicon Valley
+cominciarono a chiedersi che cosa
+questa nuova tecnologia avrebbe significato per la società.
+Guardammo al potenziale dei sistemi informatici e pensammo 
+che per tutto ciò che permette alla civiltà di funzionare,
+noi possiamo permettergli di funzionare molto meglio.
+La figura più influente di quello che sarebbe diventato
+il movimento cypherpunk è stato il fisico Tim May
+che immaginava il futuro di Internet come un posto
+per quella che avrebbe soprannominato "anarchia crittografica", dove
+dove i trasgressori della legge, i radicali e i dissidenti politici avrebbero potuto nascondere le loro attività
+dalla sorveglianza e dal controllo del governo.
+Persone che facevano cose che non richiedevano autorizzazioni da parte di nessuno perché
+non erano rintracciabili e non potevano essere fermate.
+Ma c'era un altro gruppo che vedeva
+il potenziale dei computer per ricostruire la società
+gradualmente dall'interno,
+attraverso la decentralizzazione del commercio e migliorando la divulgazione della conoscenza.
+Furono soprannominati i Hayekiani High-tech,
+perché la loro visione del mondo era influenzata dal lavoro
+dell'economista austriaco Friedrich Hayek.
+_____________________________________________
+
+
+4.
+L'intuizione fondamentale dell'economia hayekiana era
+come i piani formulati separatamente tendano a combinarsi bene.
+E abbiamo visto i media elettronici come un
+abilitatore del coordinamento di una complessità della quale il mondo
+precedentemente non era capace.
+Lo scontro di visioni tra gli Hayekiani High-tech
+che volevano costruire un mercato globale senza confini e senza attrito
+e i cripto-anarchici che vedevano Internet
+come un mezzo tecnologico per minare tutti i governi
+diede il via al movimento Cypherpunk.
+Se May è stato il padre della cripto-anarchia,
+la figura centrale per i Hayekiani High-tech è stato
+l'economista e imprenditore Phil Salin.
+Adesso, se si possiede un personal computer, ci viene detto,
+si può fare acquisti a casa in quello che viene chiamato il centro commerciale elettronico.
+Era qualche anno prima dell'invenzione del World Wide Web.
+ma le aziende produttrici di computer stavano offrendo
+un nuovo tipo di servizio con il quale i clienti potevano
+collegarsi attraverso le loro linee telefoniche per inviare messaggi a
+una bacheca, controllare l'oroscopo o fare shopping.
+È possibile acquistare articoli da grandi magazzini che vanno da
+Nordstrom's a Neiman Marcus, tutto tramite lo schermo del computer.
+Salin, il cui punto di vista è stato plasmato dalla sua attenta
+lettura di Hayek,
+_____________________________________________
+ 
+5.
+capì che questi servizi non erano
+una semplice curiosità o una versione digitale del
+del vecchio catalogo di vendita per corrispondenza.
+Erano l'inizio di qualcosa che aveva
+il potenziale per superare un giorno i confini nazionali
+attraverso il commercio e di minare il potere dei governi.
+In un saggio preveggente del 1991, ha previsto come Internet avrebbe
+Internet avrebbe cambiato il mondo entro il 1995, il 2000 e oltre.
+Il ruolo statico del negozio e dell'acquirente, del venditore e dell'acquirente, dell'autore e del lettore,
+venditore e acquirente, autore e lettore, sistemi definiti dai loro flussi di
+flussi di informazioni unidirezionali sarebbe stato sostituito da nuove forme di
+di media che consentono flussi di informazioni bidirezionali.
+Prima di occuparsi di computer, Salin aveva diretto una società
+un'azienda privata di razzi e aveva collaborato a uno studio del Congresso 
+studio del Congresso che criticava gli sprechi della NASA.
+In quest'ottica, però, c'era continuità tra i suoi interessi per i viaggi spaziali e l'informatica,
+perché in entrambi i settori lo scopo della tecnologia
+era quello spingere verso il basso i costi delle transazioni che
+che ostacolano l'attività umana, 
+rendendo possibile l'esplorazione di nuove frontiere,
+e interagire in modi i cui costi altrimenti sarebbero stati proibitivi. 
+
+6.
+Adesso, grazie ai progressi dell'informatica,
+la possibilità di acquistare o di ottenere esattamente
+le informazioni di cui si ha bisogno quando si vuole,
+nella forma che si desidera,
+sta per esplodere a una velocità mai vista dall'invenzione della stampa.
+Ma Salin era soprattutto un imprenditore e, a metà degli anni '80,
+si mise in testa di lanciare una delle
+piattaforme per la compravendita di informazioni.
+La chiamò American Information Exchange, o AMIX.
+L'attività che stiamo svolgendo è quella di
+rendere possibile qualcosa di nuovo,
+che è la possibilità di comprare e vendere
+informazioni online.
+L'AMIX è stata un'idea radicale a metà degli anni Ottanta.
+Gli utenti potevano acquistare o vendere consigli sul mercato immobiliare,
+sulla scrittura di software
+o su quali aziende investire.
+Ora si può dire a qualcuno: è come Ebay, o come Priceline o come Amazon.
+Quando abbiamo provato a spiegarlo alle persone,
+semplicemente non riuscivano a capirlo,
+_____________________________________________
+
+7.
+non riuscivano a capacitarsene.
+Alcuni di loro, credo, non riuscivano a
+immaginare l'aspetto computazionale della cosa.
+Milton Friedman non l'aveva capito.
+Sebbene fosse simile, per certi versi, ai mercati online che
+che sarebbero stati lanciati un decennio più tardi,
+AMIX non era solo un'idea in anticipo sui tempi.
+Ciò che lo distingueva era il suo fondamento e la sua
+filosofia politica e il suo ambizioso obiettivo di elevare le
+decisioni individuali, rispetto alla pianificazione centrale.
+Era un'istanziazione dell'economia austriaca.
+Ora, mettila sotto forma di codice, e mettila online.
+Una cosa del genere potrebbe avere profonde conseguenze umane.
+E quella era la visione.
+Un sistema di mercato fluido e orientato alle transazioni con
+con un feedback bidirezionale, scriveva Salin,
+avrebbe portato a scacciare le burocrazie monolitiche, per lo più governative.
+Stavamo gettando le basi filosofiche di quello che è l'ecommerce.
+ecommerce che ora può avere un'esplosione creativa.
+Cambierà il mondo.
+Sì, proprio così.
+_____________________________________________
+
+
+8.
+L'intermediazione tra grandi popolazioni di esseri umani
+attraverso i mezzi elettronici, dà luogo a tutti i tipi di
+di affascinanti comportamenti sociali emergenti.
+L'architetto principale di AMIX era il pionieristico ingegnere del software
+Chip Morningstar, che proveniva da un periodo
+allo studio di produzione di George Lucas, dove aveva supervisionato la creazione di Habitat, che era una delle prime comunità virtuali online.
+Dopo essersi unito all'AMIX, Morningstar fu coautore di un saggio
+che sosteneva che nella costruzione di un mondo
+nel software, una pianificazione centrale dettagliata è impossibile.
+Il mondo è semplicemente più complicato.
+Le persone sono più complicate.
+Non si può sapere quali siano i loro obiettivi.
+Quello che si può fare è inserirle in un ambiente
+un ambiente in cui sono possibili determinati tipi di cose.
+Quello che non si può fare è dire alle persone quello che vogliono.
+Le idee di Phil Salin, Mark Miller e Chip Morningstar
+su come un futuro Internet potesse decentralizzare la società
+hanno ispirato Tim May ad articolare per primo una visione radicalmente diversa.
+May, che sarebbe poi diventato la figura più influente del movimento Cypherpunk,
+fu stato presentato a Salin da Morningstar nel dicembre del 1987.
+_____________________________________________
+
+
+9.
+Chip disse, c'è questo tizio a Santa Cruz con cui dovresti parlare.
+In qualità di scienziato di Intel, May aveva risolto un problema 
+che riguardava l'affidabilità dei chip di memoria dell'azienda,
+chiamato problema delle particelle alfa.
+Ricco di stock option, passava le giornate in spiaggia
+a leggere romanzi di fantascienza,
+pensando a come i personal computer in rete avrebbero potuto
+trasformare alcuni dei loro scenari futuristici in realtà.
+Così ho incontrato Phil a Redwood City
+e mi ha descritto come avrebbe funzionato AMIX. 
+E io ho detto: "Le persone non venderanno
+cose insignificanti come i consigli per le tavole da surf".
+Secondo May, AMIX potrebbe essere utile come
+strumento per minare il potere dello Stato,
+ma solo infrangendo le norme legali e sociali.
+Ho detto che si tratterà di informazioni aziendali.
+Saranno piani di bombardamento per il bombardiere B-1.
+Chi vuole acquistarle? Un'azienda concorrente.
+Chi vuole venderle?
+Qualcuno che ha accesso a queste informazioni.
+Sono due tipi diversi di libertari.
+Non capiva fino a che punto possa essere di beneficio per il mondo
+ridurre i costi di transazione per tutti. 
+_____________________________________________
+
+10.
+Come Salin e i Hayekiani high-tech,
+May vedeva il personal computer
+come tecnologia abilitante per ampi cambiamenti della società.
+Ma aveva una visione diversa di un 
+mercato virtuale per tutti i beni e i servizi,
+che soprannominò BlackNet, ovvero un mezzo tecnologico
+per minare tutti i governi.
+Su AMIX, l'attività dell'utente era pubblica,
+ma la BlackNet sarebbe stata impenetrabile al tracciamento
+e alla sorveglianza del governo e forse sarebbe stata
+una rete senza alcun proprietario.
+La prima reazione di molte persone sarebbe quella di dire
+che alla BlackNet non verrà consentito di accadere.
+Forse, ma la tecnologia probabilmente la renderebbe inevitabile.
+Se non incontri fisicamente la persona,
+se non sai nemmeno in quale continente si trovano,
+non li puoi costringere.
+Tim May è un uomo intelligente.
+È stato fantastico per affinare le nostre idee e
+tecnologie, ma lo considero una sorta di
+una sorta di provocatore per cypherpunk.
+_____________________________________________
+
+11.
+Voglio vivere nel mondo che ci circonda
+piuttosto che cercare di costruirne uno da zero.
+Lo abbiamo visto come un emergere dall'interno del mondo
+e portare il mondo con sé.
+Nel 1988, AMIX è stata acquisita
+dal gigante del software Autodesk.
+Una scena crescente di giovani tecnologi si riunì
+intorno a Salin e agli High-tech Hayekians,
+tutti impegnati nella realizzazione di una visione comune
+di migliorare la libertà umana attraverso il personal computing in rete.
+Era questo focolaio di idee
+da cui stava fermentando una visione del mondo.
+Salin morì di cancro nel 1991, lo stesso anno in cui
+che il World Wide Web divenne disponibile al pubblico.
+Ma i suoi contributi intellettuali e il suo conflitto con May avevano
+aveva gettato le basi per ciò che sarebbe venuto dopo per i
+per i cypherpunk, il lungo sforzo per costruire
+una forma di denaro digitale
+basato sulla sovranità individuale e sull'anonimato  
+e l'adozione di una branca della matematica
+chiamata crittografia, che loro consideravano la chiave per la liberazione personale su Internet.
+_____________________________________________
+
+
+12.
+Il titolo del libro è
+L'Ascesa dello Stato Informatico.
+Quello che sto dicendo è che le grandi burocrazie con
+il potere che il computer dà loro
+diventano più potenti e che stanno sfuggendo al
+controlli ed equilibri della democrazia rappresentativa.
+Nel 1983, il giornalista del New York Times David Burnham
+ha avvertito che l'integrazione dei computer in ogni aspetto
+della vita quotidiana potrebbe portare a un livello di
+sorveglianza automatizzata sconosciuta in qualsiasi epoca precedente.
+Affinché la società cambi rotta, sosteneva Burnham,
+ci sarebbe bisogno che i cittadini si sollevassero
+attraverso il processo democratico
+chiedendo nuove protezioni legali per salvaguardare la loro privacy.
+Ci sono modi per affrontarlo.
+L'abbiamo fatto, e tutto ciò che spero è
+che siamo abbastanza all'erta e abbastanza vigili
+per vederli e perseguirli.
+_____________________________________________
+
+
+13.
+Si tratta solo di un'operazione politica di facciata.
+Qualche anno più tardi, un fisico di nome Tim May
+sosteneva che fosse ingenuo aver fiducia nella democrazia rappresentativa.
+Credeva che solo l'innovazione potesse
+salvarci dallo Stato orwelliano.
+Le cose interessanti che sono accadute
+sono stati i cambiamenti tecnologici:
+il telefono, la fotocopiatrice, il videoregistratore, i computer.
+May divenne un cofondatore del movimento cypherpunk,
+che si riunisce intorno all'idea che una recente innovazione
+nel campo della crittografia fosse l'innovazione chiave per combattere la tirannia
+paragonabile al modo in cui la balestra ha permesso agli
+di affrontare gli eserciti medievali.
+È un'epifania.
+È come trovarsi in cima a una montagna e vedere cosa c'è là fuori.
+Di seguito: Reason analizza il modo in cui una comunità
+è arrivata a vedere la crittografia come un'arma potente
+per sconfiggere il Grande Fratello.
+Ecco la seconda parte di una serie di quattro parti su 
+come il movimento cypherpunk abbia anticipato le promesse e i pericoli
+che si prospettavano quando Internet avrebbe sconvolto il mondo
+
+Alla fine degli anni Settanta, si verificò una sorprendente
