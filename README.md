@@ -7,6 +7,7 @@ traduzioni progetti bitcoin in italiano
 
 ## INDICE
 * [CYPHERPUNKS WRITE CODE](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION#cypherpunks-write-code)
+* [ROSS ULBRICHT @Miami Bitcoin Conference](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION/blob/main/VIDEO/Ross%20Ulbricht%20speaks%20at%20the%202021%20Miami%20Bitcoin%20Conference/ENG_V1.txt)
 * [THE TIMECHAIN CODEX](https://github.com/Cmod777/PROJECT-BITCOIN-DOCUMENT-TRANSLATION#the-timechain-codex)
 
 ### CYPHERPUNKS WRITE CODE
@@ -31,6 +32,12 @@ CYPHERPUNKS WRITE CODE|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main
 -|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/parte_D_ITA_v2.txt)|PARTE D testo italiano v2|
 
 
+### ROSS ULBRICHT @Miami Bitcoin Conference
+
+| PROGETTO | LINK| specifiche | 
+|:--------------:|:-------------:|:--------------:|
+ROSS ULBRICHT @Miami Bitcoin Conference|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/ENG_TEXT_V1.txt)|GENERALE testo inglese v1|
+-|[link](https://github.com/Cmod777/TRANSLATE_ita/blob/main/CWC_eng_v2.txt)|GENERALE testo inglese v2|
 
 ### THE TIMECHAIN CODEX
 > [NOTE] Il file è suddiviso in 9 capitoli. Questa è la prima traduzione in italiano dell'opera di Fractal Encrypt
